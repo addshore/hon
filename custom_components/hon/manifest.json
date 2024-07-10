@@ -9,7 +9,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/Andre0512/hon/issues",
   "requirements": [
-    "pyhOn==0.16.0"
+    "pyhOn @ git+https://github.com/addshore/pyhOn.git@3f39be53f31885fb84d72f91fb4123c2e39e7156"
   ],
-  "version": "0.13.0"
+  "version": "0.13.0-beta.1-addshore"
 }
